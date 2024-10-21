@@ -1,1 +1,1 @@
-This is an EDA project on amazon sales dataset
+This is an EDA project on amazon sales dataset.
