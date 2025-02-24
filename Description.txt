@@ -1,0 +1,1 @@
+A Python-based project for creating and analyzing a mutual fund portfolio. It utilizes historical stock data to calculate key metrics like ROI and volatility, implements asset allocation strategies, and simulates fund performance over time. The goal is to achieve a balanced portfolio with optimized returns and risk management.
